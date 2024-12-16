@@ -10,7 +10,7 @@ In the following, a _Memory Game_ will be introduced.
 The game has a start screen that welcomes the player. After clicking on "Let's start", the player can choose between three different levels: easy, medium, and hard. For the first level, the player has 60 seconds to find all coloured pairs. For the medium level, 40 seconds, and the hard level 20 seconds. After the time is up or after finding all pairs, a result screen will show whether the player has won or lost this level. If they have won, a green text will appear underneath the level button showing that this level has been passed. If one wants to clear all green messages and restart, the "Reset Progress" button can be clicked. 
 
 ## URL
-You can find the application here: [URL link](https://sasmmh.github.io/startup-ideas-manager/)
+You can find the application here: [URL link](https://sasmmh.github.io/memory_game/) 
 
 ## How to use the application
 To use the app, you can open the URL in Chrome and:  
